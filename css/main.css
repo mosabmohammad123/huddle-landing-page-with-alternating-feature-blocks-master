@@ -1,0 +1,146 @@
+html{
+    padding-bottom: 0%;
+}
+
+body{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo{
+    width:25%;
+    min-width: 130.75px;
+    height: 20%;
+}
+
+.tryBtn{
+    border-radius: 50px;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.15);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    width: 15%;
+    min-width: 120px;
+    
+    
+    background: white;
+    outline: none;
+    border: none;
+}
+.firstSection{
+    background: hsl(193, 100%, 96%);
+    background-image: url("images/bg-hero-desktop.svg");
+    
+}
+
+.contantImg{
+    width: 80%;
+    height: 70%;
+    
+}
+
+.textCard{
+    width: 80%;
+    height: 70%;
+}
+.illustration{
+    width: 90%;
+    min-width: 90%;
+    height: 70%;
+   margin: auto;
+}
+.getBtn{
+    border-radius: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    width: 300px;
+    height: 50px;
+    background: hsl(322, 100%, 66%);
+    color: white;
+    outline: none;
+    border: none;
+}
+
+.secondSection{
+    margin-top: 10%;
+    background: white;
+    padding-bottom: 100px;
+}
+
+.contantRow{
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.15);
+    width: 90%;
+    padding-left: 0%;
+    border-radius: 10px;
+}
+.contantPara{
+    color: hsl(208, 11%, 55%);
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    
+    padding:0px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.container p{
+    font-weight: 700;
+}
+
+.small-box {
+    display: inline-block;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    margin-bottom: -100px;
+}
+
+.box {
+
+    width: 50%;
+    min-width: 320px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    
+}
+
+.thirdSection{
+    background: hsl(192, 100%, 9%);
+    color: white;
+    padding-top: 10%;
+    padding-bottom: 0%;
+}
+
+.logoBottom{
+}
+
+.icons{
+    margin-bottom: 8%;
+}
+
+.locPhEmail{
+    font-size: 16px;
+}
+.location{
+    position: relative;
+    top: -23px;
+    left: 35px;
+    margin-right: 50px;
+}
+.imgIcon2{
+    padding-right: 20px;
+}
+.Copyright{
+    font-size: 14px;
+}
+.challengeBy{
+    font-size: 14px;
+}
+
+.challengeBy a{
+    color: hsl(322, 100%, 66%);
+}
